@@ -2,7 +2,7 @@
 ## Walker Davis
 ### Instructors: Romain Michon and Tim O'Brien
 
-### *Disclaimer:*  This is my second coding project ever.  Coding practices are not good, design is pretty subpar, but the remix at the end of the [Youtube Product Demo](https://www.youtube.com/watch?v=uWXSWEAAABk) is pretty hot.
+### *Disclaimer:*  This is my second coding project ever.  Coding practices are not good, design is pretty subpar, but the remix at the end of the [Youtube Product Demo](https://www.youtube.com/watch?v=uWXSWEAAABk) is pretty :fire:.  -Walker 10/27/18
 
 
 ## Controls
