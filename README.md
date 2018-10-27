@@ -1,10 +1,11 @@
 # 256A-Phaust-Phatness
-##Walker Davis
-###Romain Michon and Tim O'Brien
+## Walker Davis
+### Instructors: Romain Michon and Tim O'Brien
 
-[Link!](https://www.youtube.com/watch?v=uWXSWEAAABk)
+### *Disclaimer:*  This is my second coding project ever.  Coding practices are not good, design is pretty subpar, but the remix at the end of the [Youtube Product Demo](https://www.youtube.com/watch?v=uWXSWEAAABk) is pretty hot.
 
-##Controls
+
+## Controls
 -dial 1(from left) rotary slider specifies frequency of the saw waves
 -dial 2(second from left) rotary slider specifies frequency of cutoff filter
 -dial 3(third from left) rotary slider specifies Q of filter
@@ -12,8 +13,7 @@
 
 
 
-##Potential Improvements/things I do not know how to do
+## Potential Improvements/things I do not know how to do
 -add labels to sliders that bend around rotary knob
 -add MIDI in capabilities to play with keyboard/controller
 -knowlingly adjust position of knobs, not just lucky guessing
-
